@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="assertions.Test1"/>
+      <class name="firstTestNGPackage.NewTest"/>
+      <class name="Listeners.loginTest"/>
+      <class name="BatchTesting.PaymentTest"/>
+      <class name="firstTestNGPackage.SanityTest_1"/>
+      <class name="PageObjectModel.RegistrationTest"/>
+      <class name="BatchTesting.SignUpTest"/>
+      <class name="BatchTesting.LoginTest"/>
+      <class name="assertions.Test_SoftAssertion"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
